@@ -7,6 +7,11 @@ I'm a passionate developer focused on **Machine Learning**, **Web Development**,
 
 ---
 
+### 📄 My Cover Letter
+[![Cover Letter](https://img.shields.io/badge/View%20My%20Cover%20Letter-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1tiP3bplD3r3yKHx2BxHWgvrlo4SOLHQ2/view?usp=sharing)
+
+---
+
 ### 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OMpawar140&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
