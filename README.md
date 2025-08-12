@@ -13,10 +13,6 @@ I'm a passionate developer focused on **Machine Learning**, **Web Development**,
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMpawar140&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMpawar140&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ---
 
 ### 🎯 Current Focus
